@@ -5,10 +5,11 @@ footer{
     box-sizing: content-box;
 }
 footer h2{
-    font-size: 1.2em;
+    font-size: 1em;
     text-transform: uppercase;
     padding-bottom: 10px;
     font-weight:700;
+    color: white
 }
 footer p{
     font-size: .9em;

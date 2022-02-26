@@ -1,0 +1,26 @@
+.newsImage{
+    width: 100%;
+}
+.newsContainer{
+    padding: 30px;
+    box-shadow: 0px 0px 16px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.bigBox{
+    padding: 0 16px;
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #002c58;
+
+}
+h4{
+    font-size: .9em;
+}
+.verMas{
+    font-weight: 700;
+    font-size: .9em;
+    margin-top: 20px;
+}
