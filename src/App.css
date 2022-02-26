@@ -1,3 +1,8 @@
+
+*{
+  letter-spacing: -0.5px;
+  font-family: 'Montserrat', sans-serif;
+}
 .teamLogos{
   box-sizing: content-box;
 
@@ -49,4 +54,5 @@
 .titlecolor{
   font-weight: 700;
   color: #002C58;
+  
 }

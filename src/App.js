@@ -18,6 +18,7 @@ function App() {
       <Leaderboard />
       <CarouselSponsors />
       <Footer />
+
     </>
   )
 }
