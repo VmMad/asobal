@@ -1,0 +1,29 @@
+.navButton{
+  background-color: transparent;
+  border: 0;
+  margin: -20px;
+  font-size: .8em;
+}
+
+.navigator {
+  display: flex;
+  justify-content: left;
+  background-color: #002c58;
+}
+
+.containerNav{
+  padding: 0 16px;
+}
+
+.navigator img {
+  width: 150px;
+} 
+
+
+.navImage .user-icon{
+  width: 25px;
+}
+
+.bodypadding{
+  padding: 0 16px;
+}
