@@ -6,6 +6,7 @@ import Footer from './components/Footer/Footer'
 import Leaderboard from './components/Leaderboard/Leaderboard'
 import CarouselSponsors from './components/CarouselSponsors/CarouselSponsors'
 import TeamLogos from './components/TeamLogos/TeamLogos'
+import News from './components/News/News'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <TeamLogos />
       <ResultsTable />
       <Leaderboard />
+      <News />
       <CarouselSponsors />
       <Footer />
 
