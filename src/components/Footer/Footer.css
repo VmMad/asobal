@@ -6,16 +6,16 @@ footer h2{
     padding-bottom: 50px;
 }
 .footer-down {
-    background:url(https://asobal.es/img/slide/4.jpg);
+    /* background:url(https://asobal.es/img/slide/4.jpg); */
     color: white;
     text-align: center;
-    padding: 6px;
     position: fixed;
     bottom: 0;
     width: 100%;
 }
 .footer-down h3{
     color: #828282;
+    background-color: #101010;
     font-size: .7em;
-    padding: 10px
+    padding: 10px;
 }
