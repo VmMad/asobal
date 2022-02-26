@@ -1,6 +1,10 @@
-.sponsorsCarousel{
+/* .sponsorsCarousel{
     height: 80px;
 }
 .sponsorsCarousel .carousel-inner{
     height: 80px;
+} */
+.sponsors{
+    width: 100%;
+    margin-bottom: 20px;
 }

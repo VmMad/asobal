@@ -14,7 +14,6 @@ function App() {
       <CarouselBootstrap />
       <ResultsTable />
       <Leaderboard />
-      <>//sponsors</>
       <CarouselSponsors />
       <Footer />
     </>
