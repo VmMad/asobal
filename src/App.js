@@ -16,7 +16,6 @@ function App() {
       <TeamLogos />
       <ResultsTable />
       <Leaderboard />
-      <>//sponsors</>
       <CarouselSponsors />
       <Footer />
     </>
