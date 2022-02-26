@@ -3,7 +3,7 @@ import "./CarouselBootstrap.css"
 const CarouselBootstrap = () => {
 
     return (
-        <Carousel className="carousel">
+        <Carousel className="carousel" indicators={false} prevIcon={<span aria-hidden="true" className="control-prev-icon" />} nextIcon={<span aria-hidden="true" className="control-next-icon" />}>
             <Carousel.Item>
                 <img
                     className="d-block w-100 opacity-50"
