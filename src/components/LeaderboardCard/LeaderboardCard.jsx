@@ -1,13 +1,20 @@
 import "./LeaderboardCard.css"
 
-const LeaderboardCard = ({ position, img, name, playedMatches, points }) => {
+const LeaderboardCard = ({ position, img, name, playedMatches, points, className }) => {
     return (
-        <tr className="leaderboardCard text-center">
+        <>{className ? <tr className={`leaderboardCard text-center ${className}`}>
             <td>{position}</td>
-            <td className="d-flex flex-row clubSpace"><img src={img} className="clubLogo" />{name}</td>
+            <td className="text-start"> <img src={img} className="clubLogo" /> {name}</td>
             <td>{playedMatches}</td>
             <td>{points}</td>
-        </tr>
+        </tr> : <tr className={`leaderboardCard text-center`}>
+            <td>{position}</td>
+            <td className="text-start"> <img src={img} className="clubLogo" /> {name}</td>
+            <td>{playedMatches}</td>
+            <td>{points}</td>
+        </tr>}
+
+        </>
     )
 }
 export default LeaderboardCard

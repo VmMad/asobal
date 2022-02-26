@@ -4,6 +4,7 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+
 .navButton{
   background-color: transparent;
   border: 0;
@@ -52,4 +53,28 @@
   font-weight: 700;
   color: #002C58;
   
+}
+.theaders th{
+width: 25%;
+color: black;
+}
+
+.score{
+  font-weight: 700;
+}
+
+.leaders{
+  border-spacing: 0;
+  background-color: #00AFD2;
+}
+
+.leaderboardtable>:not(caption)>*>* {
+    border-bottom-width: 0px;
+}
+
+.leaderboardtable tbody{
+  border-top: 0!important;
+}
+.scheduletable{
+  margin: 35px 0;
 }

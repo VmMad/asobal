@@ -2,6 +2,11 @@
     padding-bottom: 60px;
 }
 .upperC{
-    width: 50%;
     text-transform: uppercase;
+}
+.schedule{
+    padding-left: 16px;
+}
+.leaderboardtable{
+    border: none;
 }
