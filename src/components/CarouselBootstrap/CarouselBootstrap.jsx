@@ -1,5 +1,6 @@
 import { Carousel } from "react-bootstrap"
 import "./CarouselBootstrap.css"
+import sorteo from "./sorteo.png"
 const CarouselBootstrap = () => {
 
     return (
@@ -25,6 +26,14 @@ const CarouselBootstrap = () => {
                     className="d-block w-100 opacity-50"
                     src="https://asobal.es/image.php?image=/imagenes/fotos/7150_ggra.jpg&width=1200"
                     alt="Third slide"
+                />
+
+            </Carousel.Item>
+            <Carousel.Item>
+                <img
+                    className="d-block w-100 opacity-50 sorteo"
+                    src={sorteo}
+                    alt="Fourth slide"
                 />
 
             </Carousel.Item>

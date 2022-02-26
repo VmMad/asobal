@@ -78,3 +78,27 @@ color: black;
 .scheduletable{
   margin: 35px 0;
 }
+
+.navImage{
+  width: 6%!important;
+  filter:invert(100%)
+}
+.navbar-toggler-icon{
+  filter:invert(100%)
+
+}
+
+.btn-close{
+  filter:invert(100%)
+
+}
+
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: 0 0 0 0rem #0d3b69;
+}
+
+.navbar-toggler {
+  border-color: rgb(255 255 255 /0%)!important;
+}

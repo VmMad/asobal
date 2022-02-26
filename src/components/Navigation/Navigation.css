@@ -1,0 +1,12 @@
+.offCanvas.justify-content-end.offcanvas-body{
+width: 100%;
+border: 0;
+}
+
+.offCanvas {
+    width: 100%;
+}
+
+.offCanvas.text-align-left.offcanvas.offcanvas-start.show{
+    border:none;
+}
