@@ -5,4 +5,7 @@ NOTA: Actualmente, esta aplicación está diseñada solo para ser utilizada en m
 
 Nuestra aplicación es demostrativa por lo que algunas de sus funcionalidades se encuentran desactivadas (enlaces/links).
 
+Por tratarse de un prototipo, sugerimos las dimensiones para iPhone XR al 75%
+
 Pueden encontrar más información sobre nuestra propuesta en los documentos anexos.
+
