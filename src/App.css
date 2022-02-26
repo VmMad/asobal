@@ -1,5 +1,5 @@
-*{
-  box-sizing: inherit;
+.teamLogos{
+  box-sizing: content-box;
 
 }
 .navButton{
@@ -46,3 +46,7 @@
   
 }
 
+.titlecolor{
+  font-weight: 700;
+  color: #002C58;
+}

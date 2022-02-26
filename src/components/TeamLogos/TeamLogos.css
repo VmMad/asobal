@@ -1,0 +1,13 @@
+.teamLogos{
+    width: 100%;
+    overflow-x: auto;
+    white-space: nowrap;
+    height: 80px;
+    object-fit: scale-down;
+    padding: 30px 16px;
+}
+
+.teamLogos img{
+    height: 90%;
+    padding:10px 10px;
+}

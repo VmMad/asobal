@@ -5,6 +5,7 @@ import ResultsTable from './components/ResultsTable/ResultsTable'
 import Footer from './components/Footer/Footer'
 import Leaderboard from './components/Leaderboard/Leaderboard'
 import CarouselSponsors from './components/CarouselSponsors/CarouselSponsors'
+import TeamLogos from './components/TeamLogos/TeamLogos'
 
 function App() {
 
@@ -12,6 +13,7 @@ function App() {
     <>
       <Navigation />
       <CarouselBootstrap />
+      <TeamLogos />
       <ResultsTable />
       <Leaderboard />
       <>//sponsors</>
