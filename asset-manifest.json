@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/asobal/static/css/main.083904ce.css",
+    "main.js": "/asobal/static/js/main.54fd7b51.js",
+    "static/media/sorteo.png": "/asobal/static/media/sorteo.b1955ba5fb51d4fdaf58.png",
+    "static/media/Abanda-ademar-leon.svg": "/asobal/static/media/Abanda-ademar-leon.197a00d11d21e9694d1d613d5f6c3b78.svg",
+    "static/media/BM ANtequera.svg": "/asobal/static/media/BM ANtequera.af07124aa7f589ada3a3fb06d8c33dbc.svg",
+    "static/media/news.png": "/asobal/static/media/news.96b649d5d318877aef07.png",
+    "static/media/Frigorificos Morrazo.svg": "/asobal/static/media/Frigorificos Morrazo.e1a7ae13f09b351ddd36caafba44d832.svg",
+    "static/media/Angel Ximenez puente Genil.svg": "/asobal/static/media/Angel Ximenez puente Genil.bd77571568bdaab7ca2d854e8f7dfde5.svg",
+    "static/media/loterias_logo.webp": "/asobal/static/media/loterias_logo.e9c63d6d38a67d681db0.webp",
+    "static/media/barca-icon.svg": "/asobal/static/media/barca-icon.c0d0b271deeb53de25a70c9be574427a.svg",
+    "static/media/renfe_logo.webp": "/asobal/static/media/renfe_logo.b75a128c7f079645f84e.webp",
+    "static/media/Bm. logroño la rioja.svg": "/asobal/static/media/Bm. logroño la rioja.3fbff1853dbcb16c638fb34f90dc4fa4.svg",
+    "static/media/Bidasoa IRUN.svg": "/asobal/static/media/Bidasoa IRUN.bc987ac240574ee221c8e46ac88ac2fa.svg",
+    "static/media/sacyr_logo.webp": "/asobal/static/media/sacyr_logo.ff9297081a9973fe9b56.webp",
+    "static/media/la_liga_logo.webp": "/asobal/static/media/la_liga_logo.3bb66d7c310758301598.webp",
+    "static/media/mgs_seguros_logo.webp": "/asobal/static/media/mgs_seguros_logo.468adf272f136fbe6f1a.webp",
+    "static/media/acierto_logo.webp": "/asobal/static/media/acierto_logo.f0dc0955ad7308ef353d.webp",
+    "static/media/quiron_salud_logo.webp": "/asobal/static/media/quiron_salud_logo.fe512e6e03682d99eaae.webp",
+    "static/media/granollers.svg": "/asobal/static/media/granollers.654291adfafc4ec67d19d6a2ccc0c156.svg",
+    "static/media/Bada Huesca.svg": "/asobal/static/media/Bada Huesca.71493b8500d866a22d9b1b8277e78fdb.svg",
+    "static/media/Bm Benidorm.svg": "/asobal/static/media/Bm Benidorm.3bf5fe9715fa42c9c1e5e9aa355bb1cd.svg",
+    "static/media/Bathco BM Torrelavega.svg": "/asobal/static/media/Bathco BM Torrelavega.78e1c1645a3b5e027b0008ea8d7de997.svg",
+    "index.html": "/asobal/index.html",
+    "main.083904ce.css.map": "/asobal/static/css/main.083904ce.css.map",
+    "main.54fd7b51.js.map": "/asobal/static/js/main.54fd7b51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.083904ce.css",
+    "static/js/main.54fd7b51.js"
+  ]
+}
