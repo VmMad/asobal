@@ -24,6 +24,7 @@ const Leaderboard = () => {
                     <LeaderboardCard position="5º" img="https://asobal.es/imagenes/jornada/club1.svg" name="Barça" playedMatches="32" points="16" />
                 </tbody>
             </Table>
+            <h6 className="upperC titlecolor">+ Clasificación completa</h6>
         </div>
     )
 }
