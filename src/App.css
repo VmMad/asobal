@@ -1,3 +1,7 @@
+*{
+  box-sizing: inherit;
+
+}
 .navButton{
   background-color: transparent;
   border: 0;
@@ -19,11 +23,26 @@
   width: 150px;
 } 
 
-
-.navImage .user-icon{
-  width: 25px;
+.navigator .navImage{
+  width: 40px;
+  color: white;
 }
 
 .bodypadding{
   padding: 0 16px;
+  margin: 0;
 }
+
+.offCanvas{
+  background-color: #002c58;
+  text-transform: uppercase;
+  padding: 10px;
+  font-weight: bold;
+
+}
+
+.offCanvas a, hr {
+  color: white;
+  
+}
+
